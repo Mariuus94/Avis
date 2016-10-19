@@ -10,7 +10,9 @@ body{
 a {
 	text-decoration: none;
 }
-
+.h1 {
+	font-size: 1000%;
+}
 a:link, a:visited {
 	color: #CF5C3F;
 }
